@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\biels\\Documents\\Northcoders\\Week_2\\Friday15th\\GenericsChellenge\\GenericsChellenge\\GenericsChellenge.csproj",
-      "projectName": "GenericsChellenge",
-      "projectPath": "C:\\Users\\biels\\Documents\\Northcoders\\Week_2\\Friday15th\\GenericsChellenge\\GenericsChellenge\\GenericsChellenge.csproj",
+      "projectUniqueName": "C:\\Users\\biels\\Documents\\Northcoders\\Week_2\\Friday15th\\GenericsChellenge\\GenericsChellenge\\SuperheroAgency.csproj",
+      "projectName": "SuperheroAgency",
+      "projectPath": "C:\\Users\\biels\\Documents\\Northcoders\\Week_2\\Friday15th\\GenericsChellenge\\GenericsChellenge\\SuperheroAgency.csproj",
       "packagesPath": "C:\\Users\\biels\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\biels\\Documents\\Northcoders\\Week_2\\Friday15th\\GenericsChellenge\\GenericsChellenge\\obj\\",
       "projectStyle": "PackageReference",
